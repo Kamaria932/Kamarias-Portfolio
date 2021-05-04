@@ -1,0 +1,31 @@
+h1 {
+    font-family: 'Lobster', cursive;
+}
+
+body {
+    background-color: #00cc88;
+}
+
+.center
+{display: block;
+    margin-right: auto;
+    margin-left: auto;
+width: 40%;}
+
+.bake
+{color: #520066;}
+.photo
+{color: #00802b;}
+.outdoors
+{color: #990033;}
+.Oakley
+{color: #ffffb3;}
+.home
+{color: #ff5500;}
+h4{color: #006644;}
+
+a {color: #33ffff;}
+.tiny
+{width: 30%;}
+
+p{font-family: 'New Tegomin', serif;}
